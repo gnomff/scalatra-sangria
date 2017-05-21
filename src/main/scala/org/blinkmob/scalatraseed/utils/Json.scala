@@ -1,4 +1,4 @@
-package com.smartrac.scalatraseed.utils
+package org.blinkmob.scalatraseed.utils
 import org.scalatra.ScalatraServlet
 import org.json4s.DefaultFormats
 import org.json4s.Formats

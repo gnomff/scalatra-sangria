@@ -1,4 +1,4 @@
-package com.smartrac.scalatraseed.utils
+package org.blinkmob.scalatraseed.utils
 
 import org.scalatra.{CorsSupport, ScalatraServlet}
 

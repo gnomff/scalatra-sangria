@@ -1,6 +1,6 @@
 package org.blinkmob.scalatraseed
 
-import com.smartrac.scalatraseed.utils.BaseServlet
+import org.blinkmob.scalatraseed.utils.BaseServlet
 import anorm._
  
 case class Dragon(ID:Int, DRAGON_TYPE:String, NAME:String)

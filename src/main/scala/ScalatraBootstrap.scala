@@ -1,7 +1,7 @@
 import org.scalatra.LifeCycle
 import javax.servlet.ServletContext
 
-import com.smartrac.scalatraseed.PingServlet
+import org.blinkmob.scalatraseed.PingServlet
 import org.blinkmob.scalatraseed.DragonServlet
 import com.zaxxer.hikari.HikariDataSource
 
